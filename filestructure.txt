@@ -1,0 +1,10 @@
+|-- .gitignore
+|-- index.js
+|-- LICENSE
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- index.html
+    |-- live.html
+    |-- upload.html
+|-- README.md
