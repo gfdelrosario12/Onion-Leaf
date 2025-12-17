@@ -10,9 +10,6 @@
     { "source": "/home", "destination": "/index.html" },
     { "source": "/maintenance", "destination": "/maintenance.html" }
   ],
-  "redirects": [{ "source": "/", "destination": "/maintenance", "permanent": false },
-  { "source": "/home", "destination": "/maintenance", "permanent": false },
-  { "source": "/information", "destination": "/maintenance", "permanent": false },
-  { "source": "/analytics", "destination": "/maintenance", "permanent": false }
+  "redirects": [{ "source": "/", "destination": "/home", "permanent": false }
 ]
 }
